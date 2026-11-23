@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nikhilakula4511.github.io/asr-car-travels/sitemap.xml
